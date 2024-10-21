@@ -1,4 +1,4 @@
-# 🔴 Slime Attack!
+# Astro Pong
 ## Description
 Astro Pong is a pong game that combines astronauts and pong, the setting of the game is in outer space where 2 astronouts fight it out!
 
